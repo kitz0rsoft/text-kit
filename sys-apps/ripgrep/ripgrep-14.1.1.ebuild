@@ -7,7 +7,7 @@ inherit bash-completion-r1 cargo
 DESCRIPTION="A search tool that combines the usability of ag with the raw speed of grep"
 HOMEPAGE="https://github.com/BurntSushi/ripgrep"
 SRC_URI="https://github.com/BurntSushi/ripgrep/tarball/4649aa9700619f94cf9c66876e9549d83420e16c -> ripgrep-14.1.1-4649aa9.tar.gz
-https://regen.mordor/0f/9a/c1/0f9ac10511d9982210c9eb6c1a3de6685f4b746757a39d44c8ef71a2642c16c021aac0a7a864f28014a637dd80ef02d3dc3a3517d56e6485aaf9af17151a7c55 -> ripgrep-14.1.1-funtoo-crates-bundle-c0f35cef52c597d50f37e652b0c7d027f7b898eefac55c76af0846941cfda9a16bc9c22d2f942226f418f9b7fb195becb51a0fed290b631369c8f28d4619a27f.tar.gz"
+https://distfiles.macaronios.org/0f/9a/c1/0f9ac10511d9982210c9eb6c1a3de6685f4b746757a39d44c8ef71a2642c16c021aac0a7a864f28014a637dd80ef02d3dc3a3517d56e6485aaf9af17151a7c55 -> ripgrep-14.1.1-funtoo-crates-bundle-c0f35cef52c597d50f37e652b0c7d027f7b898eefac55c76af0846941cfda9a16bc9c22d2f942226f418f9b7fb195becb51a0fed290b631369c8f28d4619a27f.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"
